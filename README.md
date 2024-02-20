@@ -1,5 +1,14 @@
 # Bike-Sales-Analysis-Dashboard
 
+
+
+
+![image](https://github.com/sahar-hamdi/Bike-Sales-Analysis-Dashboard/assets/93557883/7eb5f1e9-9f9e-467c-8be0-779e77131320)
+
+
+
+
+
 In this repo I used Bikes Sales Dataset to creat my first Dashboard usin Excel, as I followed the following steps:
 
 
